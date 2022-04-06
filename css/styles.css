@@ -1,6 +1,5 @@
 body {
-  background-color: purple;
-  font-family: avenir;
+  background-color: black;
   color: white;
 }
 
@@ -9,7 +8,7 @@ header {
 }
 
 header img {
-  width: 80%;
+  width: auto;
   text-align: center;
 }
 
@@ -26,23 +25,21 @@ header img {
 }
 
 .about h2 {
+  font-family: ;
   font-size: 18px;
   color: #E6007E;
   padding-top: 17,454px;
 }
 
 .about p {
+  font-family: ;
   font-size: 12px;
-  color: white;
 }
 
-.extra-light p{
-  font-family: condor, sans-serif;
-  font-weight: 200;
-  font-style: normal;
-  color: white;
+span {
+  font-family: ;
 }
 
-footer {
-  background-image: url(../img/fond.png);
+.affiches {
+  width: 20%;
 }
