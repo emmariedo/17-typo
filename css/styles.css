@@ -5,10 +5,12 @@ body {
 
 header {
   background-image: url(../img/fond.png);
+  background-size: cover;
+  background-position: center;
+  padding: 130px 40px;
 }
 
 header img {
-  width: 70%;
   text-align: center;
 }
 
@@ -17,14 +19,18 @@ header img {
   border-width: 2px;
   border-style: solid;
   border-color: white;
-  padding-top: 51,9152px;
-  padding-bottom: 51,9152px;
-  padding-left: 15,5575px;
-  padding-top: 15,5575px;
   font-family: europa, sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size: 12px
+  font-size: 12px;
+  padding-left: 47px;
+  padding-right: 47px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  margin: 40px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  text-align: justify;
 }
 
 .about h2 {
@@ -33,7 +39,6 @@ header img {
   font-style: italic;
   font-size: 18px;
   color: #E6007E;
-  padding-top: 17,454px;
 }
 
 span {
@@ -45,11 +50,15 @@ span {
 .affiches img {
   width: 80%;
   margin: auto;
+  padding-top: 79px;
+  display: flex;
 }
 
 .grille {
   width: 80%;
   margin: auto;
+  padding-top: 79px;
+  padding-bottom: 79px;
 }
 
 .extra-light h3 {
@@ -57,14 +66,17 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-top: 33px;
+  padding-left: 18px;
 }
 
 .extra-light p {
   font-family: condor, sans-serif;
   font-weight: 200;
   font-style: normal;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .extra-light-italic h3 {
@@ -72,14 +84,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .extra-light-italic p {
   font-family: condor, sans-serif;
   font-weight: 200;
   font-style: italic;
-  padding-bottom: 24,371px;
   font-size: 13px;
+  padding-bottom: 25px;
+  padding-left: 18px;
 }
 
 .light h3 {
@@ -87,14 +101,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .light p {
   font-family: condor, sans-serif;
   font-weight: 300;
   font-style: normal;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .light-italic h3 {
@@ -102,14 +118,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .light-italic p {
   font-family: condor, sans-serif;
   font-weight: 300;
   font-style: italic;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .regular h3 {
@@ -117,14 +135,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .regular p {
   font-family: condor, sans-serif;
   font-weight: 400;
   font-style: normal;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .medium h3 { 
@@ -132,14 +152,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .medium p {
   font-family: condor, sans-serif;
   font-weight: 500;
   font-style: normal;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .medium-italic h3 {
@@ -147,14 +169,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .medium-italic p {
   font-family: condor, sans-serif;
   font-weight: 500;
   font-style: italic;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .bold h3 {
@@ -162,14 +186,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .bold p {
   font-family: condor, sans-serif;
   font-weight: 700;
   font-style: normal;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .bold-italic h3 {
@@ -177,14 +203,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .bold-italic p {
   font-family: condor, sans-serif;
   font-weight: 700;
   font-style: italic;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .black h3 {
@@ -192,15 +220,16 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .black p {
   font-family: condor, sans-serif;
   font-weight: 800;
   font-style: normal;
-  padding-bottom: 24,371px;
+  padding-bottom: 25px;
   font-size: 13px;
-
+  padding-left: 18px;
 }
 
 .black-italic h3 {
@@ -208,12 +237,56 @@ span {
   font-weight: 400;
   font-style: normal;
   font-size: 13px;
+  padding-left: 18px;
 }
 
 .black-italic p {
   font-family: condor, sans-serif;
   font-weight: 800;
   font-style: italic;
-  padding-bottom: 24,371px;
+  padding-bottom: 79px;
   font-size: 13px;
+  padding-left: 18px;
+}
+
+footer {
+  background-image: url(../img/fond.png);
+  background-size: cover;
+  color: black;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding: 130px 40px;
+}
+
+footer a {
+  font-size: 16px;
+  font-family: europa, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+footer p {
+  font-size: 16px;
+  font-family: europa, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+footer img {
+  width: 15%;
+}
+
+.button {
+  display: inline-block;
+  padding: 100px 100px;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  background: white;;
+  font-size: 40px;
+  font-family: europa, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  text-align: center;
 }
