@@ -8,38 +8,212 @@ header {
 }
 
 header img {
-  width: auto;
+  width: 70%;
   text-align: center;
 }
 
 .about {
-  border-radius: 15px;
+  border-radius: 35px;
   border-width: 2px;
   border-style: solid;
   border-color: white;
-  text-align: center;
   padding-top: 51,9152px;
   padding-bottom: 51,9152px;
   padding-left: 15,5575px;
   padding-top: 15,5575px;
+  font-family: europa, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 12px
 }
 
 .about h2 {
-  font-family: ;
+  font-family: europa, sans-serif;
+  font-weight: 700;
+  font-style: italic;
   font-size: 18px;
   color: #E6007E;
   padding-top: 17,454px;
 }
 
-.about p {
-  font-family: ;
-  font-size: 12px;
-}
-
 span {
-  font-family: ;
+  font-family: europa, sans-serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
-.affiches {
-  width: 20%;
+.affiches img {
+  width: 80%;
+  margin: auto;
+}
+
+.grille {
+  width: 80%;
+  margin: auto;
+}
+
+.extra-light h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.extra-light p {
+  font-family: condor, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.extra-light-italic h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.extra-light-italic p {
+  font-family: condor, sans-serif;
+  font-weight: 200;
+  font-style: italic;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.light h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.light p {
+  font-family: condor, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.light-italic h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.light-italic p {
+  font-family: condor, sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.regular h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.regular p {
+  font-family: condor, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.medium h3 { 
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.medium p {
+  font-family: condor, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.medium-italic h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.medium-italic p {
+  font-family: condor, sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.bold h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.bold p {
+  font-family: condor, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.bold-italic h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.bold-italic p {
+  font-family: condor, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+}
+
+.black h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.black p {
+  font-family: condor, sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  padding-bottom: 24,371px;
+  font-size: 13px;
+
+}
+
+.black-italic h3 {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 13px;
+}
+
+.black-italic p {
+  font-family: condor, sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  padding-bottom: 24,371px;
+  font-size: 13px;
 }
