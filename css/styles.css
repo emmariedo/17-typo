@@ -22,7 +22,7 @@ header img {
   font-family: europa, sans-serif;
   font-weight: 300;
   font-style: normal;
-  font-size: 12px;
+  font-size: 20px;
   padding-left: 47px;
   padding-right: 47px;
   padding-top: 14px;
@@ -37,7 +37,7 @@ header img {
   font-family: europa, sans-serif;
   font-weight: 700;
   font-style: italic;
-  font-size: 18px;
+  font-size: 30px;
   color: #E6007E;
 }
 
@@ -65,9 +65,9 @@ span {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
+  font-size: 15px;
   padding-top: 33px;
-  padding-left: 18px;
+  padding-left: 47px;
 }
 
 .extra-light p {
@@ -75,33 +75,33 @@ span {
   font-weight: 200;
   font-style: normal;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .extra-light-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .extra-light-italic p {
   font-family: condor, sans-serif;
   font-weight: 200;
   font-style: italic;
-  font-size: 13px;
+  font-size: 15px;
   padding-bottom: 25px;
-  padding-left: 18px;
+  padding-left: 47px;
 }
 
 .light h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .light p {
@@ -109,16 +109,16 @@ span {
   font-weight: 300;
   font-style: normal;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .light-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .light-italic p {
@@ -126,16 +126,16 @@ span {
   font-weight: 300;
   font-style: italic;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .regular h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .regular p {
@@ -143,16 +143,16 @@ span {
   font-weight: 400;
   font-style: normal;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .medium h3 { 
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .medium p {
@@ -160,16 +160,16 @@ span {
   font-weight: 500;
   font-style: normal;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .medium-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .medium-italic p {
@@ -177,16 +177,16 @@ span {
   font-weight: 500;
   font-style: italic;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .bold h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .bold p {
@@ -195,15 +195,15 @@ span {
   font-style: normal;
   padding-bottom: 25px;
   font-size: 13px;
-  padding-left: 18px;
+  padding-left: 47px;
 }
 
 .bold-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .bold-italic p {
@@ -211,16 +211,16 @@ span {
   font-weight: 700;
   font-style: italic;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .black h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .black p {
@@ -228,16 +228,16 @@ span {
   font-weight: 800;
   font-style: normal;
   padding-bottom: 25px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .black-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 .black-italic p {
@@ -245,8 +245,8 @@ span {
   font-weight: 800;
   font-style: italic;
   padding-bottom: 79px;
-  font-size: 13px;
-  padding-left: 18px;
+  font-size: 15px;
+  padding-left: 47px;
 }
 
 footer {
@@ -278,15 +278,11 @@ footer img {
 }
 
 .button {
-  display: inline-block;
-  padding: 100px 100px;
+  display: flex;
   border-radius: 50%;
-  height: 100px;
-  width: 100px;
   background: white;;
-  font-size: 40px;
+  font-size: 50px;
   font-family: europa, sans-serif;
   font-weight: 700;
   font-style: italic;
-  text-align: center;
 }
