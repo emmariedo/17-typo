@@ -79,11 +79,23 @@ span {
   padding-left: 47px;
 }
 
+.extra-light .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
+}
+
 .extra-light-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 15px;
+  font-size: 20px;
   padding-left: 47px;
 }
 
@@ -94,6 +106,18 @@ span {
   font-size: 15px;
   padding-bottom: 25px;
   padding-left: 47px;
+}
+
+.extra-light-italic .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 200;
+  font-style: italic;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
 }
 
 .light h3 {
@@ -113,6 +137,18 @@ span {
   padding-left: 47px;
 }
 
+.light .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
+}
+
 .light-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
@@ -128,6 +164,18 @@ span {
   padding-bottom: 25px;
   font-size: 15px;
   padding-left: 47px;
+}
+
+.light-italic .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
 }
 
 .regular h3 {
@@ -147,6 +195,18 @@ span {
   padding-left: 47px;
 }
 
+.regular .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
+}
+
 .medium h3 { 
   font-family: europa, sans-serif;
   font-weight: 400;
@@ -162,6 +222,18 @@ span {
   padding-bottom: 25px;
   font-size: 15px;
   padding-left: 47px;
+}
+
+.medium .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
 }
 
 .medium-italic h3 {
@@ -181,6 +253,18 @@ span {
   padding-left: 47px;
 }
 
+.medium-italic .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
+}
+
 .bold h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
@@ -196,6 +280,18 @@ span {
   padding-bottom: 25px;
   font-size: 13px;
   padding-left: 47px;
+}
+
+.bold .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
 }
 
 .bold-italic h3 {
@@ -215,6 +311,18 @@ span {
   padding-left: 47px;
 }
 
+.bold-italic .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
+}
+
 .black h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
@@ -232,6 +340,18 @@ span {
   padding-left: 47px;
 }
 
+.black .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
+}
+
 .black-italic h3 {
   font-family: europa, sans-serif;
   font-weight: 400;
@@ -247,6 +367,18 @@ span {
   padding-bottom: 79px;
   font-size: 15px;
   padding-left: 47px;
+}
+
+.black-italic .font-tester {
+  background: none;
+  background-color: white;
+  border: none;
+  font-family: condor, sans-serif;
+  font-weight: 800;
+  font-style: italic;
+  font-size: 18px;
+  margin: 47px;
+  width: 90%;
 }
 
 footer {
@@ -289,4 +421,8 @@ footer img {
   border-radius: 250px;
   align-items: center;
   margin: 66px 272px;
+}
+
+font-tester focus {
+  outline: 2px solid;
 }
