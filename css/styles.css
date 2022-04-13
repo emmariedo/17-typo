@@ -69,6 +69,7 @@ span {
   font-size: 18px;
   padding-top: 33px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .extra-light p {
@@ -101,6 +102,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .extra-light-italic p {
@@ -133,6 +135,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .light p {
@@ -164,6 +167,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .light-italic p {
@@ -195,6 +199,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .regular p {
@@ -226,6 +231,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .medium p {
@@ -257,6 +263,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .medium-italic p {
@@ -288,6 +295,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .bold p {
@@ -319,6 +327,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .bold-italic p {
@@ -350,6 +359,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .black p {
@@ -381,6 +391,7 @@ span {
   font-style: normal;
   font-size: 18px;
   padding-left: 47px;
+  color: #06DC6F;
 }
 
 .black-italic p {
@@ -437,7 +448,7 @@ footer img {
 .button {
   display: flex;
   background: white;;
-  font-size: 50px;
+  font-size: 55px;
   font-family: europa, sans-serif;
   font-weight: 700;
   font-style: italic;
