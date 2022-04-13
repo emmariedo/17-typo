@@ -39,6 +39,7 @@ header img {
   font-style: italic;
   font-size: 30px;
   color: #E6007E;
+  text-transform: uppercase
 }
 
 span {
@@ -118,6 +119,7 @@ span {
   font-family: condor, sans-serif;
   font-weight: 200;
   font-style: italic;
+  font-size: 18px;
   margin-left: 47px;
   margin-right: 47px;
   width: 90%;
@@ -435,7 +437,7 @@ footer img {
 .button {
   display: flex;
   background: white;;
-  font-size: 40px;
+  font-size: 50px;
   font-family: europa, sans-serif;
   font-weight: 700;
   font-style: italic;
@@ -444,6 +446,8 @@ footer img {
   border-radius: 250px;
   align-items: center;
   margin: 66px 272px;
+  padding: 50px;
+  text-transform: uppercase
 }
 
 font-tester focus {
